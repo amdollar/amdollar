@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amdollar
+- 👋 Hi, I’m Anurag
 - 👀 I’m interested in lerning new Technologies
-- 🌱 I’m currently learning AWS
+- 🌱 I’m AWS certified developer associate
 - 📫 How to reach me? drop your message on: anuragawasthi020@gmail.com
 
 <!---
